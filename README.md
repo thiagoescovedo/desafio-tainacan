@@ -3,6 +3,7 @@
 ## desafio-rankparity:
 
 Método: GET
+
 URL: http://localhost:8012/wp-json/generator/randomnumbers/rankparity
 
 Passos para executar o desafio pelo WordPress:
@@ -23,6 +24,7 @@ obs:
 
 ## desafio-extra:
 Método: POST
+
 URL: http://localhost:8012/wp-json/operation/carry
 
 Exemplo de parametros para teste:
