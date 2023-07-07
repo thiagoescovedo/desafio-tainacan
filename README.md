@@ -7,7 +7,7 @@ URL: http://localhost:8012/wp-json/generator/randomnumbers/rankparity
 
 Passos para executar o desafio pelo WordPress:
 
-1. Rodar localmente o projeto
+1. Rodar localmente o projeto (utilizei a estrutura Docker disponibilizada)
 2. Abrir a página principal do WordPress
 3. Clicar em "desafio-rankparity"
 4. Clicar no botão "Generate Numbers"
