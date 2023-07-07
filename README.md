@@ -6,8 +6,11 @@ Método: GET
 URL: http://localhost:8012/wp-json/generator/randomnumbers/rankparity
 
 Passos para executar o desafio pelo WordPress:
+
 obs:
+
 -Utilizei a estrutura Docker disponibilizada
+
 -Deixei uma interface personalizada por isso removi o .gitignore da pasta data para caso queira utilizar
 
 1. Rodar localmente o projeto 
